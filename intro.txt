@@ -14,3 +14,10 @@ Kỹ năng:
 - Lập trình Python và C++.
 - Làm việc nhóm và giao tiếp hiệu quả.
 
+Kế hoạch học tập:
+- Ôn lại các lệnh Git mỗi ngày để ghi nhớ quy trình làm việc.
+- Thực hành tạo branch, merge, và xử lý conflict giữa các nhánh.
+- Làm thêm bài tập nhóm để cải thiện kỹ năng GitHub workflow.
+- Học thêm về rebase, stash và reset để hiểu sâu hơn.
+- Ghi chú lại các lỗi thường gặp và cách khắc phục.
+
