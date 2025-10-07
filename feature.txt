@@ -1,0 +1,7 @@
+# New Feature: Automatic Progress Tracker
+
+- Tính năng giúp theo dõi tiến độ học tập hằng ngày.
+- Tự động lưu thời gian học và tổng kết khi hoàn thành.
+- Hiển thị biểu đồ tiến độ trên giao diện.
+- Cho phép đặt mục tiêu học từng ngày.
+- Cảnh báo nếu người dùng bỏ lỡ kế hoạch học.
